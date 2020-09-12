@@ -1,0 +1,2 @@
+# THE-ULTIMATE-GUIDE-TO-UNDERSTANDING-NumPy-ARRAYS
+NumPy is a library in Python that allows us to write codes quickly without sacrificing performance. In other words, it helps to optimize our codes in order to enable them run faster. But do you know all there is to Python NumPy arrays? Do you have a complete idea of what you can use NumPy arrays to accomplish? Then, this ultimate guide is for you. Remember, I teach Python the FUN WAY!
